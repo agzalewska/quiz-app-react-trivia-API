@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Trivia Quiz Application 
+
+This project uses the Trivia Database open API to provide interesting and challenging sets of questions from various fields, which the users can attempt to answer to test their knowledge of a given topic.
+
+## Built with React.js, JavaScript, HTML and CSS.
+
+### Functionality:
+
+⭐ the app allows users to set up their own quiz - they can choose the number of questions, category (users can pick on of the six general categories) and the level of difficulty
+
+⭐ the app displays the percentage of the questions that the user has answered correctly
+
+⭐ once the user has finished the quiz, the application displays the modal with the message for the user and his or her final score
+
+⭐ the application features a beautiful dreamy twinkling background
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
