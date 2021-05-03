@@ -14,6 +14,9 @@ This project uses the Trivia Database open API to provide interesting and challe
 
 ⭐ the application features a beautiful dreamy twinkling background
 
+⭐ API used for this project: 
+
+   https://opentdb.com/api_config.php
 
 
 
