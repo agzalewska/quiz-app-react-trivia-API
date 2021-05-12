@@ -1,6 +1,6 @@
 # Trivia Quiz Application 
 
-This project uses the Trivia Database open API to provide interesting and challenging sets of questions from various fields, which the users can attempt to answer to test their knowledge of a given topic.
+### This project uses the Trivia Database open API to provide interesting and challenging sets of questions from various fields, which the users can attempt to answer to test their knowledge of a given topic.
 
 ## Built with React.js, JavaScript, HTML and CSS.
 
